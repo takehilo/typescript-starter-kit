@@ -1,0 +1,14 @@
+{
+  "name": "typescript-starter-kit",
+  "scripts": {
+    "lint": "tslint --project tsconfig.json",
+    "build": "tsc"
+  },
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "~5.11.0",
+    "typescript": "~3.2.2"
+  },
+  "private": true
+}
